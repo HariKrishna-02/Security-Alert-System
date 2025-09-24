@@ -11,13 +11,21 @@ This project serves as a basic, low-cost security guard that provides instant vi
 # Materials Required
 
 1.ESP32 development board (controls the system, has Wi-Fi/Bluetooth)
+
 2.HC-SR501 PIR motion sensor (detects human movement via heat)
+
 3.LED (visual alert)
+
 4.Active buzzer (audible alarm)
+
 5.Breadboard or PCB (for circuit assembly)
+
 6.Jumper wires (for connections)
+
 7.3.3V power source (ESP32 operates at 3.3V, can be USB or LiPo battery)
+
 8.Resistors (220 ohm for LED)
+
 9.USB cable (for programming and powering ESP32)
 
 Procedure
