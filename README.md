@@ -28,7 +28,7 @@ This project serves as a basic, low-cost security guard that provides instant vi
 
 9.USB cable (for programming and powering ESP32)
 
-Procedure
+# Procedure
 
 Step 1: Gather all components you need — ESP32 board, PIR sensor, buzzer, LED, jumper wires, breadboard, and power source.
 
